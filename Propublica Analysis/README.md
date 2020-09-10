@@ -1,0 +1,3 @@
+# Propublica COMPAS Dataset Analysis
+
+The resulting analysis showed an increase of about 5.4% for African Americans who were labeled as high risk and didn't re-offend while only an increase of about 2.5% for White defendants who were labeled as high risk and didn't re-offend. Moreover, it showed a decrease of about 1% for African Americans who were labeled low risk and re-offended while a decrease of about 2.4% for white people. This analysis shows that Africa Americans are charged with minor charges more often than the Caucasians.  
