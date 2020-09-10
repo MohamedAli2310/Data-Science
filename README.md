@@ -7,3 +7,4 @@ This Repo Contains:
 2. Code for reading and writing CSV files. 
 3. Data Analysis of the famous dataset from Propublica on recidivism and machine bias.
 4. Implementation of hash maps with linear probing to deduplicate a dataset of voters. 
+5. Data analysis project of baby names used in the US from 1990 to 2017 to rank popular names among the years.
